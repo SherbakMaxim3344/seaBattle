@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/SeaBattle.dir/Ability/Abilities.cpp.o"
+  "CMakeFiles/SeaBattle.dir/Ability/Abilities.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/Ability/AbilityManager.cpp.o"
+  "CMakeFiles/SeaBattle.dir/Ability/AbilityManager.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/Ability/AbilityResponce.cpp.o"
+  "CMakeFiles/SeaBattle.dir/Ability/AbilityResponce.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/Players/Player.cpp.o"
+  "CMakeFiles/SeaBattle.dir/Players/Player.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/factory/factories.cpp.o"
+  "CMakeFiles/SeaBattle.dir/factory/factories.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/gamelogic/ConsoleRenderer.cpp.o"
+  "CMakeFiles/SeaBattle.dir/gamelogic/ConsoleRenderer.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/gamelogic/Game.cpp.o"
+  "CMakeFiles/SeaBattle.dir/gamelogic/Game.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/gamelogic/GameState.cpp.o"
+  "CMakeFiles/SeaBattle.dir/gamelogic/GameState.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/gamelogic/Serializable.cpp.o"
+  "CMakeFiles/SeaBattle.dir/gamelogic/Serializable.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/gamelogic/TerminalHandler.cpp.o"
+  "CMakeFiles/SeaBattle.dir/gamelogic/TerminalHandler.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/gamelogic/main.cpp.o"
+  "CMakeFiles/SeaBattle.dir/gamelogic/main.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/holders/InputHandler.cpp.o"
+  "CMakeFiles/SeaBattle.dir/holders/InputHandler.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/holders/holder.cpp.o"
+  "CMakeFiles/SeaBattle.dir/holders/holder.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/shipsAndMap/Cell.cpp.o"
+  "CMakeFiles/SeaBattle.dir/shipsAndMap/Cell.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/shipsAndMap/map.cpp.o"
+  "CMakeFiles/SeaBattle.dir/shipsAndMap/map.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/shipsAndMap/ship.cpp.o"
+  "CMakeFiles/SeaBattle.dir/shipsAndMap/ship.cpp.o.d"
+  "CMakeFiles/SeaBattle.dir/shipsAndMap/shipmanager.cpp.o"
+  "CMakeFiles/SeaBattle.dir/shipsAndMap/shipmanager.cpp.o.d"
+  "SeaBattle"
+  "SeaBattle.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/SeaBattle.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

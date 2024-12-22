@@ -1,0 +1,1478 @@
+{
+    "my_state": {
+        "abilities": [
+            {
+                "type": "DoubleDamage"
+            },
+            {
+                "type": "Scanner"
+            },
+            {
+                "type": "Bombardment"
+            }
+        ],
+        "hash": "978abd33260da8a4c7f9262ddda278f1ff74b2b51cac7e13d47064ec82585bd4",
+        "map": {
+            "cells": [
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": 0,
+                    "shipIndex": 0,
+                    "state": "ship",
+                    "x": 1,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "empty",
+                    "x": 9,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": 0,
+                    "shipIndex": 1,
+                    "state": "ship",
+                    "x": 5,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 9
+                }
+            ],
+            "height": 10,
+            "width": 10
+        },
+        "ships": [
+            {
+                "index": 0,
+                "length": 1,
+                "location": "horizontal",
+                "segments": [
+                    "Full"
+                ]
+            },
+            {
+                "index": 1,
+                "length": 1,
+                "location": "horizontal",
+                "segments": [
+                    "Full"
+                ]
+            }
+        ]
+    },
+    "opponent_state": {
+        "abilities": [
+            {
+                "type": "DoubleDamage"
+            },
+            {
+                "type": "Scanner"
+            },
+            {
+                "type": "Bombardment"
+            }
+        ],
+        "hash": "fd585b52b9823159750824b25da4d344941b868fe8826922c9b81ac755d7f1d6",
+        "map": {
+            "cells": [
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "empty",
+                    "x": 1,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": 0,
+                    "shipIndex": 1,
+                    "state": "ship",
+                    "x": 7,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 3
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 4
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 5
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 6
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": 0,
+                    "shipIndex": 0,
+                    "state": "ship",
+                    "x": 4,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 7
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 8
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 0,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 1,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 2,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 3,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 4,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 5,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 6,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 7,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 8,
+                    "y": 9
+                },
+                {
+                    "segmentIndex": -1,
+                    "shipIndex": -1,
+                    "state": "unknown",
+                    "x": 9,
+                    "y": 9
+                }
+            ],
+            "height": 10,
+            "width": 10
+        },
+        "ships": [
+            {
+                "index": 0,
+                "length": 1,
+                "location": "vertical",
+                "segments": [
+                    "Full"
+                ]
+            },
+            {
+                "index": 1,
+                "length": 1,
+                "location": "horizontal",
+                "segments": [
+                    "Full"
+                ]
+            }
+        ]
+    }
+}
